@@ -1,0 +1,88 @@
+{
+  "uid" : "f7f707010be001ca",
+  "name" : "20 THEN Settings push Notifications are showed\n- Price Changes Threshold: you can change % of threshold \nat which you will be notified (only numbers)\n- Liquidity Changes Threshold: you can change % of threshold at which you will be notified (only numbers)",
+  "fullName" : "guru.dex.poc.Settings_NotificationSettings_03Test$Main.test20",
+  "historyId" : "176e2cb94191cf3256972c80a09f136e",
+  "time" : {
+    "start" : 1628723223034,
+    "stop" : 1628723223034,
+    "duration" : 0
+  },
+  "description" : "",
+  "status" : "skipped",
+  "statusMessage" : "class guru.dex.poc.Settings_NotificationSettings_03Test$Main is @Disabled",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setupTest",
+    "time" : {
+      "start" : 1628723222638,
+      "stop" : 1628723223031,
+      "duration" : 393
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "quit",
+    "time" : {
+      "start" : 1628723223034,
+      "stop" : 1628723223125,
+      "duration" : 91
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "pop-os"
+  }, {
+    "name" : "thread",
+    "value" : "64473@pop-os.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "guru.dex.poc.Settings_NotificationSettings_03Test$Main"
+  }, {
+    "name" : "testClass",
+    "value" : "guru.dex.poc.Settings_NotificationSettings_03Test$Main"
+  }, {
+    "name" : "testMethod",
+    "value" : "test20"
+  }, {
+    "name" : "suite",
+    "value" : "guru.dex.poc.Settings_NotificationSettings_03Test.Main"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f7f707010be001ca.json",
+  "parameterValues" : [ ]
+}

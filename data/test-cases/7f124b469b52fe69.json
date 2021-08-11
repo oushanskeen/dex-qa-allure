@@ -1,0 +1,117 @@
+{
+  "uid" : "7f124b469b52fe69",
+  "name" : "50 THEN list is sorted by price delta",
+  "fullName" : "guru.dex.poc.Epic_SearchMarket_GainerAndLosersTabs_Task_Test$Main.test50",
+  "historyId" : "bc014371dac991b2a290397a4bf468c6",
+  "time" : {
+    "start" : 1628723314305,
+    "stop" : 1628723315320,
+    "duration" : 1015
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setupTest",
+    "time" : {
+      "start" : 1628723312905,
+      "stop" : 1628723313264,
+      "duration" : 359
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "logTestStart",
+    "time" : {
+      "start" : 1628723314305,
+      "stop" : 1628723314305,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "quit",
+    "time" : {
+      "start" : 1628723315321,
+      "stop" : 1628723315525,
+      "duration" : 204
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "logTestFinished",
+    "time" : {
+      "start" : 1628723315320,
+      "stop" : 1628723315320,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "pop-os"
+  }, {
+    "name" : "thread",
+    "value" : "64473@pop-os.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "guru.dex.poc.Epic_SearchMarket_GainerAndLosersTabs_Task_Test$Main"
+  }, {
+    "name" : "testClass",
+    "value" : "guru.dex.poc.Epic_SearchMarket_GainerAndLosersTabs_Task_Test$Main"
+  }, {
+    "name" : "testMethod",
+    "value" : "test50"
+  }, {
+    "name" : "suite",
+    "value" : "guru.dex.poc.Epic_SearchMarket_GainerAndLosersTabs_Task_Test.Main"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7f124b469b52fe69.json",
+  "parameterValues" : [ ]
+}

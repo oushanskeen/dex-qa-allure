@@ -1,0 +1,117 @@
+{
+  "uid" : "56afa64f5066251d",
+  "name" : "10 GIVEN main page loaded and token in all elements given in USD",
+  "fullName" : "guru.dex.poc.UsdToEth_EntireSwitch_Test$Main.test10",
+  "historyId" : "97d2ccaff3670c2b365b2a27c5376d88",
+  "time" : {
+    "start" : 1628723235232,
+    "stop" : 1628723245710,
+    "duration" : 10478
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setupTest",
+    "time" : {
+      "start" : 1628723234863,
+      "stop" : 1628723235230,
+      "duration" : 367
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "logTestStart",
+    "time" : {
+      "start" : 1628723235233,
+      "stop" : 1628723235233,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "quit",
+    "time" : {
+      "start" : 1628723250442,
+      "stop" : 1628723250548,
+      "duration" : 106
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "logTestFinished",
+    "time" : {
+      "start" : 1628723245710,
+      "stop" : 1628723245710,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "pop-os"
+  }, {
+    "name" : "thread",
+    "value" : "64473@pop-os.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "guru.dex.poc.UsdToEth_EntireSwitch_Test$Main"
+  }, {
+    "name" : "testClass",
+    "value" : "guru.dex.poc.UsdToEth_EntireSwitch_Test$Main"
+  }, {
+    "name" : "testMethod",
+    "value" : "test10"
+  }, {
+    "name" : "suite",
+    "value" : "guru.dex.poc.UsdToEth_EntireSwitch_Test.Main"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "56afa64f5066251d.json",
+  "parameterValues" : [ ]
+}

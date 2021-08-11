@@ -1,0 +1,87 @@
+{
+  "uid" : "b3a6c5c4c40aa491",
+  "name" : "repetition 9 of 10",
+  "fullName" : "guru.dex.poc.Epic_SearchMarket_WalletTab_Task_Test$Main.test20",
+  "historyId" : "ddc8ab37413424573c0610b12ce6af99",
+  "time" : {
+    "start" : 1628723277322,
+    "stop" : 1628723279502,
+    "duration" : 2180
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "logTestStart",
+    "time" : {
+      "start" : 1628723277322,
+      "stop" : 1628723277322,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "logTestFinished",
+    "time" : {
+      "start" : 1628723279502,
+      "stop" : 1628723279502,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "pop-os"
+  }, {
+    "name" : "thread",
+    "value" : "64473@pop-os.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "guru.dex.poc.Epic_SearchMarket_WalletTab_Task_Test$Main"
+  }, {
+    "name" : "testClass",
+    "value" : "guru.dex.poc.Epic_SearchMarket_WalletTab_Task_Test$Main"
+  }, {
+    "name" : "testMethod",
+    "value" : "test20"
+  }, {
+    "name" : "suite",
+    "value" : "guru.dex.poc.Epic_SearchMarket_WalletTab_Task_Test.Main"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b3a6c5c4c40aa491.json",
+  "parameterValues" : [ ]
+}

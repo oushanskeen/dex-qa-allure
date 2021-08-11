@@ -1,0 +1,87 @@
+{
+  "uid" : "78f13f47a6c5cc03",
+  "name" : "10 GIVEN main page loaded and search market is open",
+  "fullName" : "guru.dex.poc.Epic_SearchMarket_GainerAndLosersTabs_Task_Test$Main.test10",
+  "historyId" : "1708d7743404d2a203686a3f1ae898b8",
+  "time" : {
+    "start" : 1628723223500,
+    "stop" : 1628723226345,
+    "duration" : 2845
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "logTestStart",
+    "time" : {
+      "start" : 1628723223500,
+      "stop" : 1628723223501,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "logTestFinished",
+    "time" : {
+      "start" : 1628723226345,
+      "stop" : 1628723226345,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "pop-os"
+  }, {
+    "name" : "thread",
+    "value" : "64473@pop-os.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "guru.dex.poc.Epic_SearchMarket_GainerAndLosersTabs_Task_Test$Main"
+  }, {
+    "name" : "testClass",
+    "value" : "guru.dex.poc.Epic_SearchMarket_GainerAndLosersTabs_Task_Test$Main"
+  }, {
+    "name" : "testMethod",
+    "value" : "test10"
+  }, {
+    "name" : "suite",
+    "value" : "guru.dex.poc.Epic_SearchMarket_GainerAndLosersTabs_Task_Test.Main"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "78f13f47a6c5cc03.json",
+  "parameterValues" : [ ]
+}

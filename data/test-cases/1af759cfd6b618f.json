@@ -1,0 +1,117 @@
+{
+  "uid" : "1af759cfd6b618f",
+  "name" : "95 WHEN Click on privacy link",
+  "fullName" : "guru.dex.poc.Settings_Links_04Test$Main.test95",
+  "historyId" : "af3d9dd9e247a2e4936987a4aef59b34",
+  "time" : {
+    "start" : 1628723311555,
+    "stop" : 1628723311595,
+    "duration" : 40
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "logTestStart",
+    "time" : {
+      "start" : 1628723311555,
+      "stop" : 1628723311555,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "setupTest",
+    "time" : {
+      "start" : 1628723301149,
+      "stop" : 1628723301507,
+      "duration" : 358
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "logTestFinished",
+    "time" : {
+      "start" : 1628723311594,
+      "stop" : 1628723311594,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "quit",
+    "time" : {
+      "start" : 1628723312804,
+      "stop" : 1628723312897,
+      "duration" : 93
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "pop-os"
+  }, {
+    "name" : "thread",
+    "value" : "64473@pop-os.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "guru.dex.poc.Settings_Links_04Test$Main"
+  }, {
+    "name" : "testClass",
+    "value" : "guru.dex.poc.Settings_Links_04Test$Main"
+  }, {
+    "name" : "testMethod",
+    "value" : "test95"
+  }, {
+    "name" : "suite",
+    "value" : "guru.dex.poc.Settings_Links_04Test.Main"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1af759cfd6b618f.json",
+  "parameterValues" : [ ]
+}

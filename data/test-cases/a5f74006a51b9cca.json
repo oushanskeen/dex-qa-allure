@@ -1,0 +1,117 @@
+{
+  "uid" : "a5f74006a51b9cca",
+  "name" : "80 WHEN сlick on 'Close' button",
+  "fullName" : "guru.dex.poc.Dyor_Initialization_01Test$Main.test80",
+  "historyId" : "348ac537cfabbda843ef00d218fcb5b5",
+  "time" : {
+    "start" : 1628723154442,
+    "stop" : 1628723155633,
+    "duration" : 1191
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setupTest",
+    "time" : {
+      "start" : 1628723147943,
+      "stop" : 1628723148326,
+      "duration" : 383
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "logTestStart",
+    "time" : {
+      "start" : 1628723154442,
+      "stop" : 1628723154442,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "quit",
+    "time" : {
+      "start" : 1628723155650,
+      "stop" : 1628723155756,
+      "duration" : 106
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "logTestFinished",
+    "time" : {
+      "start" : 1628723155633,
+      "stop" : 1628723155633,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "pop-os"
+  }, {
+    "name" : "thread",
+    "value" : "64473@pop-os.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "guru.dex.poc.Dyor_Initialization_01Test$Main"
+  }, {
+    "name" : "testClass",
+    "value" : "guru.dex.poc.Dyor_Initialization_01Test$Main"
+  }, {
+    "name" : "testMethod",
+    "value" : "test80"
+  }, {
+    "name" : "suite",
+    "value" : "guru.dex.poc.Dyor_Initialization_01Test.Main"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a5f74006a51b9cca.json",
+  "parameterValues" : [ ]
+}
