@@ -1,0 +1,117 @@
+{
+  "uid" : "a5c165f9ad425a03",
+  "name" : "1 GIVEN main page loaded",
+  "fullName" : "guru.dex.poc.EPIC_settings_STORY_initialization_TASK_Test$Main.test1",
+  "historyId" : "10f1884b31fae943c67da8af0e1ef747",
+  "time" : {
+    "start" : 1629116751317,
+    "stop" : 1629116754966,
+    "duration" : 3649
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "logTestStart",
+    "time" : {
+      "start" : 1629116751317,
+      "stop" : 1629116751317,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "setupTest",
+    "time" : {
+      "start" : 1629116750935,
+      "stop" : 1629116751314,
+      "duration" : 379
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "logTestFinished",
+    "time" : {
+      "start" : 1629116754966,
+      "stop" : 1629116754966,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "quit",
+    "time" : {
+      "start" : 1629116762432,
+      "stop" : 1629116762521,
+      "duration" : 89
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "pop-os"
+  }, {
+    "name" : "thread",
+    "value" : "205127@pop-os.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "guru.dex.poc.EPIC_settings_STORY_initialization_TASK_Test$Main"
+  }, {
+    "name" : "testClass",
+    "value" : "guru.dex.poc.EPIC_settings_STORY_initialization_TASK_Test$Main"
+  }, {
+    "name" : "testMethod",
+    "value" : "test1"
+  }, {
+    "name" : "suite",
+    "value" : "guru.dex.poc.EPIC_settings_STORY_initialization_TASK_Test.Main"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a5c165f9ad425a03.json",
+  "parameterValues" : [ ]
+}

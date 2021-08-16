@@ -1,0 +1,87 @@
+{
+  "uid" : "66b17d8b7dd9f808",
+  "name" : "9 WHEN unfav them all in favorites tab",
+  "fullName" : "guru.dex.poc.EPIC_searchMarket_STORY_favoritesTab_TASK_Test$Main.test9",
+  "historyId" : "d4163e3e98bf7c96198ea592896727be",
+  "time" : {
+    "start" : 1629116787513,
+    "stop" : 1629116793578,
+    "duration" : 6065
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "logTestStart",
+    "time" : {
+      "start" : 1629116787514,
+      "stop" : 1629116787514,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "logTestFinished",
+    "time" : {
+      "start" : 1629116793578,
+      "stop" : 1629116793578,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "pop-os"
+  }, {
+    "name" : "thread",
+    "value" : "205127@pop-os.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "guru.dex.poc.EPIC_searchMarket_STORY_favoritesTab_TASK_Test$Main"
+  }, {
+    "name" : "testClass",
+    "value" : "guru.dex.poc.EPIC_searchMarket_STORY_favoritesTab_TASK_Test$Main"
+  }, {
+    "name" : "testMethod",
+    "value" : "test9"
+  }, {
+    "name" : "suite",
+    "value" : "guru.dex.poc.EPIC_searchMarket_STORY_favoritesTab_TASK_Test.Main"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "66b17d8b7dd9f808.json",
+  "parameterValues" : [ ]
+}

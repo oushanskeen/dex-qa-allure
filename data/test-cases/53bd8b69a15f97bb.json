@@ -1,0 +1,117 @@
+{
+  "uid" : "53bd8b69a15f97bb",
+  "name" : "2 THEN appears - magnifier icon\n- Grey text: 'Search Market, use ticker or token address'\n- Buttons: arrow up, down, esc\n- tabs navigation, active tab has purple background\n- content of the active tab",
+  "fullName" : "guru.dex.poc.EPIC_searchMarket_STORY_unfoldedSearch_TASK_Test$Main.test2",
+  "historyId" : "afaa1012e23af07f4dcb7a32f1385c22",
+  "time" : {
+    "start" : 1629116711879,
+    "stop" : 1629116712057,
+    "duration" : 178
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setupTest",
+    "time" : {
+      "start" : 1629116706901,
+      "stop" : 1629116707346,
+      "duration" : 445
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "logTestStart",
+    "time" : {
+      "start" : 1629116711880,
+      "stop" : 1629116711880,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "quit",
+    "time" : {
+      "start" : 1629116712300,
+      "stop" : 1629116712390,
+      "duration" : 90
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "logTestFinished",
+    "time" : {
+      "start" : 1629116712057,
+      "stop" : 1629116712057,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "pop-os"
+  }, {
+    "name" : "thread",
+    "value" : "205127@pop-os.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "guru.dex.poc.EPIC_searchMarket_STORY_unfoldedSearch_TASK_Test$Main"
+  }, {
+    "name" : "testClass",
+    "value" : "guru.dex.poc.EPIC_searchMarket_STORY_unfoldedSearch_TASK_Test$Main"
+  }, {
+    "name" : "testMethod",
+    "value" : "test2"
+  }, {
+    "name" : "suite",
+    "value" : "guru.dex.poc.EPIC_searchMarket_STORY_unfoldedSearch_TASK_Test.Main"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "53bd8b69a15f97bb.json",
+  "parameterValues" : [ ]
+}

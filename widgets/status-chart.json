@@ -1,1100 +1,1330 @@
 [ {
-  "uid" : "a331d01bd88e98a8",
-  "name" : "20 WHEN Click on discord link",
+  "uid" : "127f701312c2894a",
+  "name" : "7 THEN settings window is closed",
   "time" : {
-    "start" : 1628723307877,
-    "stop" : 1628723307914,
-    "duration" : 37
+    "start" : 1629116861673,
+    "stop" : 1629116861695,
+    "duration" : 22
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "4ae85cb9ca478563",
-  "name" : "60 WHEN сlick on 'x' button",
+  "uid" : "fc6fa941e834f938",
+  "name" : "2 THEN title: \"Name\", whale icon, 24 hours, \"Price / volume\", \"24 hours, 7 days, 30 days\", the last chart for 7 days.\nitem: favorites icon, token name and icon, network id (name and circle), volume value: $ 1000, price value: $ 1,000 or $ 0.00000000, dynamic price icon per 24 hours, 7 days, 30 days, Dynamic Price graphic for the Last 7 days",
   "time" : {
-    "start" : 1628723154328,
-    "stop" : 1628723154411,
-    "duration" : 83
+    "start" : 1629116716654,
+    "stop" : 1629116718071,
+    "duration" : 1417
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "5630f712b913e33a",
-  "name" : "50 THEN Setting icon is located right upper corner",
+  "uid" : "78e733cc7ffdd9cf",
+  "name" : "4 WHEN validating Price, Market Cap, Circulating \nSupply, Max Supply and Fully \nDiluted Valuation",
   "time" : {
-    "start" : 1628723203680,
-    "stop" : 1628723203688,
-    "duration" : 8
+    "start" : 1629116704519,
+    "stop" : 1629116704549,
+    "duration" : 30
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "f918c5e0ebaf08b8",
-  "name" : "40 THEN title: 'Name', 'Volume, 24h', 'Liquidity', 'Price'\nitem: \n1. fav icon, \n2. token name\n3. token iicon, \n4. network id (name and circle), \n5. volume value: $1,000, \n6. liquidity vakue: $1,000, \n7. price value: $1.000 or $0.00000000, \n8. price dynamic icon (logic same as a",
+  "uid" : "9513ada833ddeb09",
+  "name" : "4 WHEN wallet is connected",
   "time" : {
-    "start" : 1628723227821,
-    "stop" : 1628723230276,
-    "duration" : 2455
+    "start" : 1629116757061,
+    "stop" : 1629116762296,
+    "duration" : 5235
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "340dffef9de26e2c",
-  "name" : "30 THEN list is sorted by market screener",
+  "uid" : "765c85cabc36baf6",
+  "name" : "1 GIVEN main page loaded and search market is open",
   "time" : {
-    "start" : 1628723216501,
-    "stop" : 1628723216598,
-    "duration" : 97
+    "start" : 1629116707349,
+    "stop" : 1629116711878,
+    "duration" : 4529
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "56afa64f5066251d",
-  "name" : "10 GIVEN main page loaded and token in all elements given in USD",
+  "uid" : "1fc9735f0c3acf58",
+  "name" : "14 WHEN click on ADDS button",
   "time" : {
-    "start" : 1628723235232,
-    "stop" : 1628723245710,
-    "duration" : 10478
+    "start" : 1629116833084,
+    "stop" : 1629116833122,
+    "duration" : 38
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "28055c1592a9157d",
-  "name" : "10 GIVEN main page loaded",
+  "uid" : "b586b4ca3cbfcd81",
+  "name" : "1 GIVEN main page loaded and token in all elements given in USD",
   "time" : {
-    "start" : 1628723148329,
-    "stop" : 1628723152884,
-    "duration" : 4555
+    "start" : 1629116800071,
+    "stop" : 1629116814930,
+    "duration" : 14859
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "86a9d12ed3b41023",
-  "name" : "80 WHEN Click on privacy link",
+  "uid" : "81e641ca8d97d367",
+  "name" : "1 GIVEN main page loaded and search market is open",
   "time" : {
-    "start" : 1628723310130,
-    "stop" : 1628723310173,
-    "duration" : 43
+    "start" : 1629116712938,
+    "stop" : 1629116716652,
+    "duration" : 3714
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "d668614f99ca078f",
-  "name" : "[6] Top Volume",
+  "uid" : "687eeb67ca5f5e84",
+  "name" : "6 WHEN click on settings icon",
   "time" : {
-    "start" : 1628723298620,
-    "stop" : 1628723298740,
-    "duration" : 120
+    "start" : 1629116762306,
+    "stop" : 1629116762364,
+    "duration" : 58
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "23403a127ff8e7da",
-  "name" : "20 THEN title: \"Name\", whale icon, 24 hours, \"Price / volume\", \"24 hours, 7 days, 30 days\", the last chart for 7 days.\nitem: favorites icon, token name and icon, network id (name and circle), volume value: $ 1000, price value: $ 1,000 or $ 0.00000000, dynamic price icon per 24 hours, 7 days, 30 days, Dynamic Price graphic for the Last 7 days",
-  "time" : {
-    "start" : 1628723221264,
-    "stop" : 1628723222522,
-    "duration" : 1258
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "dcfdee00e9a3f7ac",
-  "name" : "30 THEN all token at all elements turn to ETH",
-  "time" : {
-    "start" : 1628723245809,
-    "stop" : 1628723250441,
-    "duration" : 4632
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c8c1f488e30c4eba",
+  "uid" : "da10a6a5c8fe9b38",
   "name" : "[3] Losers",
   "time" : {
-    "start" : 1628723290484,
-    "stop" : 1628723297904,
-    "duration" : 7420
+    "start" : 1629116687225,
+    "stop" : 1629116687858,
+    "duration" : 633
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "d32e65658221cead",
-  "name" : "10 GIVEN main page loaded and settings window is open",
+  "uid" : "15a338fcc63903f8",
+  "name" : "5 THEN list is sorted by volume",
   "time" : {
-    "start" : 1628723204285,
-    "stop" : 1628723209998,
-    "duration" : 5713
+    "start" : 1629116777974,
+    "stop" : 1629116778162,
+    "duration" : 188
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "4e5e22f80a641ed",
-  "name" : "30 THEN",
+  "uid" : "c138ae68e65e3afe",
+  "name" : "9 THEN link opens in new tab",
   "time" : {
-    "start" : 1628723169856,
-    "stop" : 1628723169905,
-    "duration" : 49
+    "start" : 1629116879793,
+    "stop" : 1629116881269,
+    "duration" : 1476
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "c9c73ac3dc86d273",
-  "name" : "110 GIVEN market search closed with last active tab is i.e. trending tab",
+  "uid" : "c89a90539c89f600",
+  "name" : "3 WHEN click on search line (1st time)",
   "time" : {
-    "start" : 1628723300550,
-    "stop" : 1628723300629,
-    "duration" : 79
+    "start" : 1629116712059,
+    "stop" : 1629116712073,
+    "duration" : 14
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "44625e10acd9ac15",
-  "name" : "70 THEN link opens in new tab",
+  "uid" : "44226373ab4eef8",
+  "name" : "10 WHEN Click on privacy link",
   "time" : {
-    "start" : 1628723309843,
-    "stop" : 1628723310129,
-    "duration" : 286
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "bcafafe3eeefb643",
-  "name" : "30 THEN list is sorted by price delta",
-  "time" : {
-    "start" : 1628723313266,
-    "stop" : 1628723314304,
-    "duration" : 1038
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "ccc8bba6668b27b1",
-  "name" : "60 THEN list is sorted by volume",
-  "time" : {
-    "start" : 1628723171879,
-    "stop" : 1628723172082,
-    "duration" : 203
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "d888a99aa40cdbd3",
-  "name" : "90 THEN link opens in new tab",
-  "time" : {
-    "start" : 1628723310174,
-    "stop" : 1628723311554,
-    "duration" : 1380
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c385872518e5f057",
-  "name" : "40 THEN DYOR window is opend. DYOR has a special animation for loading which looks like a mushroom!",
-  "time" : {
-    "start" : 1628723153011,
-    "stop" : 1628723154182,
-    "duration" : 1171
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "890511736d902e06",
-  "name" : "30 THEN list is sorted by volume",
-  "time" : {
-    "start" : 1628723317380,
-    "stop" : 1628723318419,
-    "duration" : 1039
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "b7db32943a32944f",
-  "name" : "10 GIVEN main page loaded and search market is open",
-  "time" : {
-    "start" : 1628723250944,
-    "stop" : 1628723257074,
-    "duration" : 6130
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "4bcbb4cafb6ed38c",
-  "name" : "30 THEN etherscan.io, bscscan.com and polygonscan.com open in new tab",
-  "time" : {
-    "start" : 1628723145637,
-    "stop" : 1628723145639,
-    "duration" : 2
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c84f365206001a13",
-  "name" : "100 THEN content changes to search results",
-  "time" : {
-    "start" : 1628723299334,
-    "stop" : 1628723299842,
-    "duration" : 508
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "5551771bf3c9ee9f",
-  "name" : "90 WHEN click on all inactive fav icons on all other tabs but favorites and get them all favorite",
-  "time" : {
-    "start" : 1628723177697,
-    "stop" : 1628723181752,
-    "duration" : 4055
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "8045d2f3e86cf125",
-  "name" : "repetition 10 of 10",
-  "time" : {
-    "start" : 1628723279503,
-    "stop" : 1628723281728,
-    "duration" : 2225
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "163d89395de4253f",
-  "name" : "[2] Gainers",
-  "time" : {
-    "start" : 1628723289799,
-    "stop" : 1628723290482,
-    "duration" : 683
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "adfb8cdfafd5b41f",
-  "name" : "20 THEN DYOR icon is located on the top next to the search market",
-  "time" : {
-    "start" : 1628723152891,
-    "stop" : 1628723152937,
+    "start" : 1629116881271,
+    "stop" : 1629116881317,
     "duration" : 46
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "4e7a3f4943db19be",
-  "name" : "50 WHEN click on '~' button",
+  "uid" : "4307a15db8dd73d2",
+  "name" : "3 THEN list is sorted by volume",
   "time" : {
-    "start" : 1628723288869,
-    "stop" : 1628723288906,
-    "duration" : 37
+    "start" : 1629116750538,
+    "stop" : 1629116750735,
+    "duration" : 197
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "44cd26f64f4e1cee",
-  "name" : "20 THEN window contains:\n- Setting of Notifications;\n- Tx on\\off with high slippage, \n- social networks links (discord, twitter, telegram);\n- links to Privacy, Terms of Service;\n- current version of dex.guru; \n- button 'x' at top; \n- button 'Save', \n- button 'Close' \"",
+  "uid" : "39f8d5c70fc26177",
+  "name" : "19 THEN all TXs displayed",
   "time" : {
-    "start" : 1628723210000,
-    "stop" : 1628723210142,
-    "duration" : 142
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "35405487d430e606",
-  "name" : "50 THEN link opens in new tab",
-  "time" : {
-    "start" : 1628723309326,
-    "stop" : 1628723309798,
-    "duration" : 472
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "3778ceefb69001da",
-  "name" : "50 THEN \"Contains:\n- token icon; \n- id as a link to *network_name*scan.io, \n- button to copy token ID, \n- icon for ethscan or bscscan or polygonscan. \n- Price, \n- Market Cap, \n- Circulating Supply, \n- Max Supply \n- Fully Diluted Valuation \n- link to the token official website \n- and Community for some tokens\"",
-  "time" : {
-    "start" : 1628723154185,
-    "stop" : 1628723154326,
-    "duration" : 141
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "2ea2fbd493c203db",
-  "name" : "110 WHEN click on all inactive fav icons on all other tabs but favorites and get them all favorite",
-  "time" : {
-    "start" : 1628723186220,
-    "stop" : 1628723192090,
-    "duration" : 5870
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "a10e2015b33e7c27",
-  "name" : "10 GIVEN DYOR window opened",
-  "time" : {
-    "start" : 1628723134724,
-    "stop" : 1628723138763,
-    "duration" : 4039
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "6a7436ff0f4d4a44",
-  "name" : "20 THEN title: 'Name', 'Volume, 24h', 'Liquidity', 'Price'\nitem: \n1. fav icon, \n2. token name\n3. token iicon, \n4. network id (name and circle), \n5. volume value: $1,000, \n6. liquidity vakue: $1,000, \n7. price value: $1.000 or $0.00000000, \n8. price dynamic icon (logic same as a",
-  "time" : {
-    "start" : 1628723226347,
-    "stop" : 1628723227798,
-    "duration" : 1451
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "9fc1635966f41d3c",
-  "name" : "10 GIVEN main page loaded and search market is open and no takon favorit",
-  "time" : {
-    "start" : 1628723156139,
-    "stop" : 1628723169854,
-    "duration" : 13715
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "ab01ece02674ef13",
-  "name" : "30 WHEN cross close button is clicked",
-  "time" : {
-    "start" : 1628723210144,
-    "stop" : 1628723210260,
-    "duration" : 116
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "ae7c2eece4d95901",
-  "name" : "30 THEN link opens in new tab",
-  "time" : {
-    "start" : 1628723307915,
-    "stop" : 1628723309290,
-    "duration" : 1375
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "372723c5db1c80e7",
-  "name" : "30 WHEN click on DYOR icon (mushroom icon)",
-  "time" : {
-    "start" : 1628723152939,
-    "stop" : 1628723153008,
-    "duration" : 69
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "dfa81aedf818053c",
-  "name" : "20 THEN appears search line (invariant) with:\n1. Favs icon\n2. Token icon and name. If token belong to BSC or POLY network it has coloured circle and network name near its. Colour: orange - BSC, purple - POLY\n3. Current token price in the format: $0.00000000 or $1.0000\n4. Price dynamic: delta icon 0.00%: If dynamic is negative icon is red and directed down, value is red too. Green for opposite case.\n5. Grey text: Search Market, \n6. Magnifier icon\n7. '~' button",
-  "time" : {
-    "start" : 1628723288744,
-    "stop" : 1628723288744,
-    "duration" : 0
-  },
-  "status" : "skipped",
-  "severity" : "normal"
-}, {
-  "uid" : "9c3a2ff83e9c9ce6",
-  "name" : "30 THEN list is sorted by volume",
-  "time" : {
-    "start" : 1628723315913,
-    "stop" : 1628723316939,
-    "duration" : 1026
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "6a81c23154e4796b",
-  "name" : "repetition 7 of 10",
-  "time" : {
-    "start" : 1628723272923,
-    "stop" : 1628723275123,
-    "duration" : 2200
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "7f124b469b52fe69",
-  "name" : "50 THEN list is sorted by price delta",
-  "time" : {
-    "start" : 1628723314305,
-    "stop" : 1628723315320,
-    "duration" : 1015
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "88d1c7ed8e0ee018",
-  "name" : "[1] Trending",
-  "time" : {
-    "start" : 1628723289153,
-    "stop" : 1628723289798,
-    "duration" : 645
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "35143afd32ee5f70",
-  "name" : "10 GIVEN Social networks links and links to Privacy, Terms of Service.",
-  "time" : {
-    "start" : 1628723301509,
-    "stop" : 1628723307875,
-    "duration" : 6366
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "a5f74006a51b9cca",
-  "name" : "80 WHEN сlick on 'Close' button",
-  "time" : {
-    "start" : 1628723154442,
-    "stop" : 1628723155633,
-    "duration" : 1191
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "d39f0221c89d785",
-  "name" : "test()",
-  "time" : {
-    "start" : 1628723203893,
-    "stop" : 1628723203893,
-    "duration" : 0
-  },
-  "status" : "skipped",
-  "severity" : "normal"
-}, {
-  "uid" : "32abf7a893c8e3c0",
-  "name" : "60 WHEN сlick on link to website",
-  "time" : {
-    "start" : 1628723145682,
-    "stop" : 1628723146413,
-    "duration" : 731
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "a4e658d93608d531",
-  "name" : "60 THEN settings window is closed",
-  "time" : {
-    "start" : 1628723210425,
-    "stop" : 1628723210443,
-    "duration" : 18
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "33daf83e03e39fa5",
-  "name" : "20 click on link to *network_name*scan.io",
-  "time" : {
-    "start" : 1628723138826,
-    "stop" : 1628723145635,
-    "duration" : 6809
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "6d6e1961ddddc91b",
-  "name" : "100 WHEN unfav them all in favorites tab",
-  "time" : {
-    "start" : 1628723181754,
-    "stop" : 1628723186218,
-    "duration" : 4464
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "ac161dc386855279",
-  "name" : "50 WHEN close button is clicked",
-  "time" : {
-    "start" : 1628723210346,
-    "stop" : 1628723210422,
-    "duration" : 76
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "ff9fc893127e0609",
-  "name" : "130 THEN open search market with last active tab",
-  "time" : {
-    "start" : 1628723300658,
-    "stop" : 1628723300673,
-    "duration" : 15
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "66103c6ad7842b04",
-  "name" : "80 THEN token is deleted from this list",
-  "time" : {
-    "start" : 1628723176685,
-    "stop" : 1628723177695,
-    "duration" : 1010
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "ccd97e77a80d0fe1",
-  "name" : "20 WHEN switch ETH<->USD",
-  "time" : {
-    "start" : 1628723245711,
-    "stop" : 1628723245807,
-    "duration" : 96
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "786a05e31efc4a95",
-  "name" : "10 GIVEN setting modal open and push notifications toggle ON",
-  "time" : {
-    "start" : 1628723223033,
-    "stop" : 1628723223033,
-    "duration" : 0
-  },
-  "status" : "skipped",
-  "severity" : "normal"
-}, {
-  "uid" : "aa451d98a48ec5d3",
-  "name" : "10 GIVEN main page loaded",
-  "time" : {
-    "start" : 1628723282195,
-    "stop" : 1628723288742,
-    "duration" : 6547
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "8d8ce6f7704a1098",
-  "name" : "80 WHEN click on inactive tab",
-  "time" : {
-    "start" : 1628723298741,
-    "stop" : 1628723298778,
-    "duration" : 37
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "289881bfb42da3b4",
-  "name" : "150 THEN marke search is closed",
-  "time" : {
-    "start" : 1628723300927,
-    "stop" : 1628723300950,
-    "duration" : 23
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "ba088f910e58b211",
-  "name" : "30 WHEN click on search line (1st time)",
-  "time" : {
-    "start" : 1628723288745,
-    "stop" : 1628723288802,
-    "duration" : 57
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "93995c1bd59d3972",
-  "name" : "20 THEN appears - magnifier icon\n- Grey text: 'Search Market, use ticker or token address'\n- Buttons: arrow up, down, esc\n- tabs navigation, active tab has purple background\n- content of the active tab",
-  "time" : {
-    "start" : 1628723234571,
-    "stop" : 1628723234750,
-    "duration" : 179
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "f5c3b7ee30e9bb71",
-  "name" : "70 THEN DYOR window is closed",
-  "time" : {
-    "start" : 1628723154415,
-    "stop" : 1628723154438,
-    "duration" : 23
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "58a62a96b7b60ebc",
-  "name" : "60 WHEN click on settings icon",
-  "time" : {
-    "start" : 1628723203689,
-    "stop" : 1628723203744,
-    "duration" : 55
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "16c0408366570b00",
-  "name" : "40 GIVEN non-empty list of favorites",
-  "time" : {
-    "start" : 1628723169907,
-    "stop" : 1628723171598,
-    "duration" : 1691
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "5fee75b81f06bf01",
-  "name" : "106 THEN 1. guru animation appears while token page is loading\n2. search market is closed. \n3. token page loaded",
-  "time" : {
-    "start" : 1628723300439,
-    "stop" : 1628723300549,
-    "duration" : 110
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "35dfc4bed84ee912",
-  "name" : "80 WHEN сlick on link to community",
-  "time" : {
-    "start" : 1628723146432,
-    "stop" : 1628723147141,
-    "duration" : 709
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "2785675f5b243653",
-  "name" : "170 THEN marke search is closed",
-  "time" : {
-    "start" : 1628723301043,
-    "stop" : 1628723301056,
-    "duration" : 13
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "cf81c021231714e1",
-  "name" : "40 WHEN Click on twitter link",
-  "time" : {
-    "start" : 1628723309291,
-    "stop" : 1628723309325,
-    "duration" : 34
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "b3a6c5c4c40aa491",
-  "name" : "repetition 9 of 10",
-  "time" : {
-    "start" : 1628723277322,
-    "stop" : 1628723279502,
-    "duration" : 2180
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "346f2713c1dfdd11",
-  "name" : "30 THEN settings icon is not displayed",
-  "time" : {
-    "start" : 1628723197837,
-    "stop" : 1628723198870,
-    "duration" : 1033
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "9a3bbaaa5decb27f",
-  "name" : "160 WHEN market serach is open and click keyboard ESC",
-  "time" : {
-    "start" : 1628723300951,
-    "stop" : 1628723301042,
+    "start" : 1629116833326,
+    "stop" : 1629116833417,
     "duration" : 91
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "869864e4d68cc916",
-  "name" : "40 THEN list contains tokens which value is > $10",
+  "uid" : "227fe49d92bcaded",
+  "name" : "2 WHEN Click on discord link",
   "time" : {
-    "start" : 1628723318425,
-    "stop" : 1628723319459,
-    "duration" : 1034
+    "start" : 1629116877683,
+    "stop" : 1629116877734,
+    "duration" : 51
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "2ea5d3f4cf2fdf6b",
-  "name" : "10 GIVEN main page loaded and search market is open",
+  "uid" : "5e85d462f9e4eaf7",
+  "name" : "4 THEN DYOR window is opend. DYOR has a special animation for loading which looks like a mushroom!",
   "time" : {
-    "start" : 1628723217139,
-    "stop" : 1628723221263,
-    "duration" : 4124
+    "start" : 1629116866086,
+    "stop" : 1629116868195,
+    "duration" : 2109
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "78f13f47a6c5cc03",
-  "name" : "10 GIVEN main page loaded and search market is open",
+  "uid" : "86c7a9c1e3febd7b",
+  "name" : "8 WHEN сlick on 'Close' button",
   "time" : {
-    "start" : 1628723223500,
-    "stop" : 1628723226345,
-    "duration" : 2845
+    "start" : 1629116868502,
+    "stop" : 1629116869701,
+    "duration" : 1199
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "bd1a973d2267a761",
-  "name" : "120 WHEN click on search line (2nd time)",
+  "uid" : "45fd5a9527570f20",
+  "name" : "5 THEN link opens in new tab",
   "time" : {
-    "start" : 1628723300630,
-    "stop" : 1628723300657,
-    "duration" : 27
+    "start" : 1629116878753,
+    "stop" : 1629116879342,
+    "duration" : 589
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "a57b28ac74393b3c",
-  "name" : "45 GIVEN settings window is open",
+  "uid" : "3e3d73b771202f40",
+  "name" : "8 WHEN click on inactive tab",
   "time" : {
-    "start" : 1628723210278,
-    "stop" : 1628723210344,
+    "start" : 1629116688868,
+    "stop" : 1629116688924,
+    "duration" : 56
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bb910d361c25c5eb",
+  "name" : "14 WHEN click on search line (2nd time)",
+  "time" : {
+    "start" : 1629116692022,
+    "stop" : 1629116692052,
+    "duration" : 30
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "edf0c94987ec5f68",
+  "name" : "2 THEN title: \"Name\", whale icon, 24 hours, \"Price / volume\", \"24 hours, 7 days, 30 days\", the last chart for 7 days.\nitem: \n1. favorites icon, \n2. token name,\n3. token icon, \n4. network id (name and circle), \n5. volume value: $ 1000, \n6. price value: $ 1,000 or $ 0.00000000, \n7. price dynamic icon per 24 hours, 7 days, 30 days, \n8. price dynamic graphic for the Last 7 days",
+  "time" : {
+    "start" : 1629116850448,
+    "stop" : 1629116852893,
+    "duration" : 2445
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a8f9ed1220ab5d29",
+  "name" : "5 GIVEN settings window is open",
+  "time" : {
+    "start" : 1629116861440,
+    "stop" : 1629116861539,
+    "duration" : 99
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "378126993998013b",
+  "name" : "repetition 8 of 10",
+  "time" : {
+    "start" : 1629116743673,
+    "stop" : 1629116746062,
+    "duration" : 2389
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a10d01ae0787e080",
+  "name" : "1",
+  "time" : {
+    "start" : 1629116718790,
+    "stop" : 1629116725310,
+    "duration" : 6520
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a40b980106aae83e",
+  "name" : "8 WHEN сlick on link to community",
+  "time" : {
+    "start" : 1629116705557,
+    "stop" : 1629116706187,
+    "duration" : 630
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "745b1939ddc0ff4d",
+  "name" : "3 WHEN click on search line (1st time)",
+  "time" : {
+    "start" : 1629116685240,
+    "stop" : 1629116685306,
     "duration" : 66
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "b2d56a68840596fa",
-  "name" : "20 THEN title: \"Name\", whale icon, 24 hours, \"Price / volume\", \"24 hours, 7 days, 30 days\", the last chart for 7 days.\nitem: \n1. favorites icon, \n2. token name,\n3. token icon, \n4. network id (name and circle), \n5. volume value: $ 1000, \n6. price value: $ 1,000 or $ 0.00000000, \n7. price dynamic icon per 24 hours, 7 days, 30 days, \n8. price dynamic graphic for the Last 7 days",
+  "uid" : "1a76fe0aeebf960a",
+  "name" : "3 THEN link opens in new tab",
   "time" : {
-    "start" : 1628723215152,
-    "stop" : 1628723216500,
-    "duration" : 1348
+    "start" : 1629116877735,
+    "stop" : 1629116878688,
+    "duration" : 953
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "41b619b5200a43ee",
-  "name" : "repetition 8 of 10",
+  "uid" : "14e7410032a4a33d",
+  "name" : "3 THEN list is sorted by volume",
   "time" : {
-    "start" : 1628723275125,
-    "stop" : 1628723277320,
-    "duration" : 2195
+    "start" : 1629116718073,
+    "stop" : 1629116718295,
+    "duration" : 222
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "841577323cf0171b",
-  "name" : "60 WHEN Click on telegram link",
-  "time" : {
-    "start" : 1628723309800,
-    "stop" : 1628723309841,
-    "duration" : 41
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "69d5b69a7a3fe58e",
-  "name" : "repetition 4 of 10",
-  "time" : {
-    "start" : 1628723266242,
-    "stop" : 1628723268438,
-    "duration" : 2196
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "9d807ddf9174d264",
-  "name" : "140 WHEN click outside market search",
-  "time" : {
-    "start" : 1628723300674,
-    "stop" : 1628723300925,
-    "duration" : 251
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "28f8a2c5d9e07cf4",
-  "name" : "repetition 1 of 10",
-  "time" : {
-    "start" : 1628723259568,
-    "stop" : 1628723261791,
-    "duration" : 2223
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "118f24beed21ff4e",
-  "name" : "10 GIVEN main page loaded and search market is open",
-  "time" : {
-    "start" : 1628723230770,
-    "stop" : 1628723234570,
-    "duration" : 3800
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "1d7bbf174b86172e",
-  "name" : "10 GIVEN main page loaded",
-  "time" : {
-    "start" : 1628723192569,
-    "stop" : 1628723196797,
-    "duration" : 4228
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "7894afea270ddb09",
-  "name" : "50 THEN all data is relevant to coingecko",
-  "time" : {
-    "start" : 1628723145673,
-    "stop" : 1628723145680,
-    "duration" : 7
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "a58a6726c3f58d9a",
-  "name" : "96 THEN link opens in new tab",
-  "time" : {
-    "start" : 1628723311596,
-    "stop" : 1628723312803,
-    "duration" : 1207
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "5d06da5685347b42",
-  "name" : "repetition 5 of 10",
-  "time" : {
-    "start" : 1628723268440,
-    "stop" : 1628723270673,
-    "duration" : 2233
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "36cc496e16639318",
+  "uid" : "afcc39018b3a90b7",
   "name" : "repetition 3 of 10",
   "time" : {
-    "start" : 1628723264058,
-    "stop" : 1628723266240,
-    "duration" : 2182
+    "start" : 1629116732423,
+    "stop" : 1629116734641,
+    "duration" : 2218
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "d40e4e78c822c7f2",
-  "name" : "repetition 2 of 10",
+  "uid" : "b786d1504e91aa58",
+  "name" : "repetition 7 of 10",
   "time" : {
-    "start" : 1628723261793,
-    "stop" : 1628723264047,
-    "duration" : 2254
+    "start" : 1629116741404,
+    "stop" : 1629116743672,
+    "duration" : 2268
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "b7aca5b7a5bedd65",
-  "name" : "90 THEN DYOR window is closed",
+  "uid" : "b3fe2539d0ab6fdc",
+  "name" : "3 WHEN click on DYOR icon (mushroom icon)",
   "time" : {
-    "start" : 1628723155635,
-    "stop" : 1628723155649,
-    "duration" : 14
+    "start" : 1629116865998,
+    "stop" : 1629116866084,
+    "duration" : 86
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "e80790e745b5c258",
-  "name" : "70 WHEN click on favs icon near token name",
+  "uid" : "7f74e21e39716ed2",
+  "name" : "4 THEN open search market with top volume",
   "time" : {
-    "start" : 1628723172084,
-    "stop" : 1628723176681,
-    "duration" : 4597
+    "start" : 1629116712075,
+    "stop" : 1629116712149,
+    "duration" : 74
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "5f2c4fd7b946ac9e",
-  "name" : "20 WHEN wallet is diconnected",
+  "uid" : "a4ddc4e56644dba4",
+  "name" : "5 THEN definitions of trader categories are shown. (elephant IN PROGRESS)",
   "time" : {
-    "start" : 1628723196799,
-    "stop" : 1628723197835,
-    "duration" : 1036
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "3db6fc6b97b5435a",
-  "name" : "40 WHEN wallet is connected",
-  "time" : {
-    "start" : 1628723198871,
-    "stop" : 1628723203679,
-    "duration" : 4808
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "769ad0fde5896db2",
-  "name" : "90 WHEN input search request",
-  "time" : {
-    "start" : 1628723298779,
-    "stop" : 1628723299332,
-    "duration" : 553
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "d8c5c632870228df",
-  "name" : "103 WHEN (you're on a tab with tokens)\nclick on token name from list",
-  "time" : {
-    "start" : 1628723299843,
-    "stop" : 1628723300436,
-    "duration" : 593
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "9c32196a98073b13",
-  "name" : "50 THEN title: 'Name', 'Volume, 24h', 'Liquidity', 'Price'\nitem: \n1. fav icon, \n2. token name\n3. token iicon, \n4. network id (name and circle), \n5. volume value: $1,000, \n6. liquidity vakue: $1,000, \n7. price value: $1.000 or $0.00000000, \n8. price dynamic icon (logic same as a",
-  "time" : {
-    "start" : 1628723171599,
-    "stop" : 1628723171877,
-    "duration" : 278
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "134d679ae68e43cd",
-  "name" : "40 WHEN validating Price, Market Cap, Circulating \nSupply, Max Supply and Fully \nDiluted Valuation",
-  "time" : {
-    "start" : 1628723145640,
-    "stop" : 1628723145671,
-    "duration" : 31
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "d6d964b6a2900d22",
-  "name" : "repetition 6 of 10",
-  "time" : {
-    "start" : 1628723270675,
-    "stop" : 1628723272921,
-    "duration" : 2246
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "45c80b41d73a8def",
-  "name" : "60 THEN appears search market module with:\n- magnifier icon\n- Grey text: 'Search Market, use ticker or token address'\n- Buttons: arrow up, down, esc\n- tabs navigation, active tab has purple background\n- content of the active tab",
-  "time" : {
-    "start" : 1628723288907,
-    "stop" : 1628723289140,
-    "duration" : 233
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "1af759cfd6b618f",
-  "name" : "95 WHEN Click on privacy link",
-  "time" : {
-    "start" : 1628723311555,
-    "stop" : 1628723311595,
-    "duration" : 40
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "9f41651e9383afcc",
-  "name" : "40 THEN open search market with top volume",
-  "time" : {
-    "start" : 1628723288804,
-    "stop" : 1628723288868,
-    "duration" : 64
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c7a9a09d0248570b",
-  "name" : "20 THEN title: 'Asset', 'Balance', 'Value', 'Price'\nitem: \n1. fav icon, \n2. token icon \n3. token name, \n4. network id, \n5. token balance: 1.0000 or 0.00000000, \n6. token value (balance $ equivalent): $0.0000, \n7. token price: $1.0000 or $0.00000000, \n8. price dynamic icon\n9. price dynamic value: 0.00%",
-  "time" : {
-    "start" : 1628723257076,
-    "stop" : 1628723259560,
-    "duration" : 2484
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "f7f707010be001ca",
-  "name" : "20 THEN Settings push Notifications are showed\n- Price Changes Threshold: you can change % of threshold \nat which you will be notified (only numbers)\n- Liquidity Changes Threshold: you can change % of threshold at which you will be notified (only numbers)",
-  "time" : {
-    "start" : 1628723223034,
-    "stop" : 1628723223034,
+    "start" : 1629116827718,
+    "stop" : 1629116827718,
     "duration" : 0
   },
-  "status" : "skipped",
-  "severity" : "normal"
-}, {
-  "uid" : "ad7745552563a8f9",
-  "name" : "[4] Favorites",
-  "time" : {
-    "start" : 1628723297905,
-    "stop" : 1628723298002,
-    "duration" : 97
-  },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "6df36829c8e6b9d2",
-  "name" : "10 GIVEN main page loaded and search market is open",
+  "uid" : "de1992e024e05ad5",
+  "name" : "9 THEN DYOR window is closed",
   "time" : {
-    "start" : 1628723210946,
-    "stop" : 1628723215150,
-    "duration" : 4204
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "17a10f0e5a726c6e",
-  "name" : "70 THEN website is opend in new tab",
-  "time" : {
-    "start" : 1628723146416,
-    "stop" : 1628723146430,
-    "duration" : 14
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "ab7f0385b9ed7789",
-  "name" : "70 THEN settings window is open",
-  "time" : {
-    "start" : 1628723203746,
-    "stop" : 1628723203799,
-    "duration" : 53
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "d23913b994a4796c",
-  "name" : "[5] Wallet",
-  "time" : {
-    "start" : 1628723298004,
-    "stop" : 1628723298618,
-    "duration" : 614
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "cc7ab950d18c830b",
-  "name" : "40 THEN settings window is closed",
-  "time" : {
-    "start" : 1628723210262,
-    "stop" : 1628723210277,
+    "start" : 1629116869703,
+    "stop" : 1629116869718,
     "duration" : 15
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "33f5f2d38b1685da",
-  "name" : "90 THEN website is opend in new tab",
+  "uid" : "822c40917725d401",
+  "name" : "3 GIVEN non-empty list of favorites",
   "time" : {
-    "start" : 1628723147144,
-    "stop" : 1628723147860,
-    "duration" : 716
+    "start" : 1629116776069,
+    "stop" : 1629116777691,
+    "duration" : 1622
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6715741ed1e47ff8",
+  "name" : "7 THEN DYOR window is closed",
+  "time" : {
+    "start" : 1629116868465,
+    "stop" : 1629116868500,
+    "duration" : 35
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "43adfc53dd8c1922",
+  "name" : "6 THEN appears search market module with:\n- magnifier icon\n- Grey text: 'Search Market, use ticker or token address'\n- Buttons: arrow up, down, esc\n- tabs navigation, active tab has purple background\n- content of the active tab",
+  "time" : {
+    "start" : 1629116685468,
+    "stop" : 1629116685745,
+    "duration" : 277
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b6344d3c096ee893",
+  "name" : "4 WHEN hover on emoji",
+  "time" : {
+    "start" : 1629116827716,
+    "stop" : 1629116827717,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e8c9f3312d4cfeb1",
+  "name" : "repetition 1 of 10",
+  "time" : {
+    "start" : 1629116727791,
+    "stop" : 1629116730035,
+    "duration" : 2244
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "df44420500540782",
+  "name" : "10 WHEN click on all inactive fav icons on all other tabs but favorites and get them all favorite",
+  "time" : {
+    "start" : 1629116793580,
+    "stop" : 1629116799521,
+    "duration" : 5941
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "da8e606421a03ba6",
+  "name" : "5 THEN all data is relevant to coingecko",
+  "time" : {
+    "start" : 1629116704550,
+    "stop" : 1629116704562,
+    "duration" : 12
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3aabc2730ea86f43",
+  "name" : "1 GIVEN main page loaded",
+  "time" : {
+    "start" : 1629116862292,
+    "stop" : 1629116865974,
+    "duration" : 3682
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ba35fc033a50f8f5",
+  "name" : "6 WHEN click on '<' button",
+  "time" : {
+    "start" : 1629116827720,
+    "stop" : 1629116827834,
+    "duration" : 114
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9d400fd7f68aeb6c",
+  "name" : "4 WHEN Click on twitter link",
+  "time" : {
+    "start" : 1629116878690,
+    "stop" : 1629116878751,
+    "duration" : 61
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9ce24bee6082040b",
+  "name" : "4 THEN settings window is closed",
+  "time" : {
+    "start" : 1629116861413,
+    "stop" : 1629116861437,
+    "duration" : 24
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e666f02fb351e44f",
+  "name" : "12 THEN 1. guru animation appears while token page is loading\n2. search market is closed. \n3. token page loaded",
+  "time" : {
+    "start" : 1629116691852,
+    "stop" : 1629116691980,
+    "duration" : 128
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d276eeaf39d693cc",
+  "name" : "12 WHEN click on x icon",
+  "time" : {
+    "start" : 1629116830755,
+    "stop" : 1629116831068,
+    "duration" : 313
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "82cd4565223e2ed8",
+  "name" : "6 WHEN сlick on link to website",
+  "time" : {
+    "start" : 1629116704563,
+    "stop" : 1629116705537,
+    "duration" : 974
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9381fbd3ef92819f",
+  "name" : "[2] Gainers",
+  "time" : {
+    "start" : 1629116686512,
+    "stop" : 1629116687222,
+    "duration" : 710
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "39ea169c1d1a8263",
+  "name" : "3 WHEN 30 seconds pass after data refresh",
+  "time" : {
+    "start" : 1629116825660,
+    "stop" : 1629116827715,
+    "duration" : 2055
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eb750fc724fd62d6",
+  "name" : "11 THEN full Liquidity unfold",
+  "time" : {
+    "start" : 1629116830076,
+    "stop" : 1629116830753,
+    "duration" : 677
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ea159f0864dce725",
+  "name" : "5 THEN \"Contains:\n- token icon; \n- id as a link to *network_name*scan.io, \n- button to copy token ID, \n- icon for ethscan or bscscan or polygonscan. \n- Price, \n- Market Cap, \n- Circulating Supply, \n- Max Supply \n- Fully Diluted Valuation \n- link to the token official website \n- and Community for some tokens\"",
+  "time" : {
+    "start" : 1629116868197,
+    "stop" : 1629116868371,
+    "duration" : 174
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "65692bb2d3f5d6bf",
+  "name" : "repetition 6 of 10",
+  "time" : {
+    "start" : 1629116739111,
+    "stop" : 1629116741400,
+    "duration" : 2289
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3ae55d7970a4bd",
+  "name" : "3 WHEN cross close button is clicked",
+  "time" : {
+    "start" : 1629116861233,
+    "stop" : 1629116861410,
+    "duration" : 177
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cf8b61553c7df3f8",
+  "name" : "2 THEN \"folded liquidity sidebar is on the left side contains:\n1. small liquidity sidebar contains: \n    1.1 Liquidity chart \n    1.2 Pool Activity\n2. liquidity Chart\n3. pool Activity contains:\n    3.1 \"\"All, Adds, Removes\"\" buttons.\n    3.2 \"\"Token Amount, Token Value, Time ago\"\" colums\n    3.3 The list of 30 latest transactions. \n       For every item you can see \n       3.3.1 icon \n       3.3.2 \"\"+ Add\"\" or \"\"- Remove\"\", \n       3.3.3 token amount \n          - for current token\n          - for companion token\n       3.3.4 token value \n       3.3.5 time since txn happens\n                Time is displayed in seconds up to 120s; after that \n                 it is displayed in minutes (updates every second).",
+  "time" : {
+    "start" : 1629116825418,
+    "stop" : 1629116825658,
+    "duration" : 240
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4e325e785be86417",
+  "name" : "7 THEN token is deleted from this list",
+  "time" : {
+    "start" : 1629116883141,
+    "stop" : 1629116884156,
+    "duration" : 1015
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ea11bdb95a9742c1",
+  "name" : "17 THEN only Removes TXs displayed",
+  "time" : {
+    "start" : 1629116833228,
+    "stop" : 1629116833298,
+    "duration" : 70
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "efaef9283bde6810",
+  "name" : "13 GIVEN market search closed with last active tab is i.e. trending tab",
+  "time" : {
+    "start" : 1629116691982,
+    "stop" : 1629116692020,
+    "duration" : 38
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "661c9fd7ed384d6",
+  "name" : "8 WHEN click on '>' button",
+  "time" : {
+    "start" : 1629116828859,
+    "stop" : 1629116828919,
+    "duration" : 60
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3535b0874fec0edb",
+  "name" : "1 GIVEN DYOR window opened",
+  "time" : {
+    "start" : 1629116693014,
+    "stop" : 1629116697059,
+    "duration" : 4045
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a30c4790db4630a8",
+  "name" : "1 GIVEN main page loaded and search market is open",
+  "time" : {
+    "start" : 1629116846406,
+    "stop" : 1629116850446,
+    "duration" : 4040
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1cec386751847e64",
+  "name" : "test()",
+  "time" : {
+    "start" : 1629116692536,
+    "stop" : 1629116692536,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "66b17d8b7dd9f808",
+  "name" : "9 WHEN unfav them all in favorites tab",
+  "time" : {
+    "start" : 1629116787513,
+    "stop" : 1629116793578,
+    "duration" : 6065
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6d9ecb61a82795ef",
+  "name" : "2 THEN DYOR icon is located on the top next to the search market",
+  "time" : {
+    "start" : 1629116865976,
+    "stop" : 1629116865996,
+    "duration" : 20
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d7a78ea958a6c567",
+  "name" : "4 THEN list contains tokens which value is > $10",
+  "time" : {
+    "start" : 1629116750736,
+    "stop" : 1629116750860,
+    "duration" : 124
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "57dadc0c3d1c6510",
+  "name" : "4 THEN title: 'Name', 'Volume, 24h', 'Liquidity', 'Price'\nitem: \n1. fav icon, \n2. token name\n3. token iicon, \n4. network id (name and circle), \n5. volume value: $1,000, \n6. liquidity vakue: $1,000, \n7. price value: $1.000 or $0.00000000, \n8. price dynamic icon (logic same as a",
+  "time" : {
+    "start" : 1629116841411,
+    "stop" : 1629116844223,
+    "duration" : 2812
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5dbb849326be4d8b",
+  "name" : "3 THEN settings icon is not displayed",
+  "time" : {
+    "start" : 1629116756023,
+    "stop" : 1629116757059,
+    "duration" : 1036
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eab84234623d280b",
+  "name" : "2 THEN title: 'Name', 'Volume, 24h', 'Liquidity', 'Price'\nitem: \n1. fav icon, \n2. token name\n3. token iicon, \n4. network id (name and circle), \n5. volume value: $1,000, \n6. liquidity vakue: $1,000, \n7. price value: $1.000 or $0.00000000, \n8. price dynamic icon (logic same as a",
+  "time" : {
+    "start" : 1629116838917,
+    "stop" : 1629116841210,
+    "duration" : 2293
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bc65bae6757a8117",
+  "name" : "1 GIVEN main page loaded and search market is open",
+  "time" : {
+    "start" : 1629116834050,
+    "stop" : 1629116838915,
+    "duration" : 4865
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4eec7cd45127351c",
+  "name" : "2 THEN window contains:\n- Setting of Notifications;\n- Tx on\\off with high slippage, \n- social networks links (discord, twitter, telegram);\n- links to Privacy, Terms of Service;\n- current version of dex.guru; \n- button 'x' at top; \n- button 'Save', \n- button 'Close' \"",
+  "time" : {
+    "start" : 1629116861044,
+    "stop" : 1629116861232,
+    "duration" : 188
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dc1999532141b808",
+  "name" : "1 GIVEN Social networks links and links to Privacy, Terms of Service.",
+  "time" : {
+    "start" : 1629116870296,
+    "stop" : 1629116877682,
+    "duration" : 7386
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eaa51df7b399c528",
+  "name" : "1 GIVEN main page loaded and settings window is open",
+  "time" : {
+    "start" : 1629116853607,
+    "stop" : 1629116861041,
+    "duration" : 7434
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "90aea1556bb74a7f",
+  "name" : "[1] Trending",
+  "time" : {
+    "start" : 1629116685785,
+    "stop" : 1629116686509,
+    "duration" : 724
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "41fc4b5f1c0fdedb",
+  "name" : "16 WHEN click on REMOVES button",
+  "time" : {
+    "start" : 1629116833181,
+    "stop" : 1629116833227,
+    "duration" : 46
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d90d4c13646d24d2",
+  "name" : "3 THEN etherscan.io, bscscan.com and polygonscan.com open in new tab",
+  "time" : {
+    "start" : 1629116704516,
+    "stop" : 1629116704517,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dcbb2bcbb45ad471",
+  "name" : "11 WHEN (you're on a tab with tokens)\nclick on token name from list",
+  "time" : {
+    "start" : 1629116691785,
+    "stop" : 1629116691847,
+    "duration" : 62
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cfd61c26b259e80f",
+  "name" : "2 click on link to *network_name*scan.io",
+  "time" : {
+    "start" : 1629116697062,
+    "stop" : 1629116704514,
+    "duration" : 7452
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4deb610d05b4d276",
+  "name" : "2 THEN Settings push Notifications are showed\n- Price Changes Threshold: you can change % of threshold \nat which you will be notified (only numbers)\n- Liquidity Changes Threshold: you can change % of threshold at which you will be notified (only numbers)",
+  "time" : {
+    "start" : 1629116844906,
+    "stop" : 1629116844906,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "f1efcf65f229aa81",
+  "name" : "2 WHEN switch ETH<->USD",
+  "time" : {
+    "start" : 1629116814932,
+    "stop" : 1629116815062,
+    "duration" : 130
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "313741ee1787f9a3",
+  "name" : "9 THEN - sidebar collapse|unfold\n- arrow changes direction to opposite",
+  "time" : {
+    "start" : 1629116828921,
+    "stop" : 1629116829961,
+    "duration" : 1040
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a280ef1e46fbeae5",
+  "name" : "2 THEN appears search line (invariant) with:\n1. Favs icon\n2. Token icon and name. If token belong to BSC or POLY network it has coloured circle and network name near its. Colour: orange - BSC, purple - POLY\n3. Current token price in the format: $0.00000000 or $1.0000\n4. Price dynamic: delta icon 0.00%: If dynamic is negative icon is red and directed down, value is red too. Green for opposite case.\n5. Grey text: Search Market, \n6. Magnifier icon\n7. '~' button",
+  "time" : {
+    "start" : 1629116685036,
+    "stop" : 1629116685237,
+    "duration" : 201
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bc76f29e8b1ba65c",
+  "name" : "repetition 4 of 10",
+  "time" : {
+    "start" : 1629116734642,
+    "stop" : 1629116736895,
+    "duration" : 2253
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "14fd0ae44275127b",
+  "name" : "18 WHEN click on ALL button",
+  "time" : {
+    "start" : 1629116833299,
+    "stop" : 1629116833324,
+    "duration" : 25
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "68367e7eaf76430b",
+  "name" : "6 WHEN close button is clicked",
+  "time" : {
+    "start" : 1629116861540,
+    "stop" : 1629116861671,
+    "duration" : 131
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3644b866e08d05f7",
+  "name" : "8 WHEN click on all inactive fav icons on all other tabs but favorites and get them all favorite",
+  "time" : {
+    "start" : 1629116782914,
+    "stop" : 1629116787512,
+    "duration" : 4598
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "44a45aa22cce26e0",
+  "name" : "11 THEN link opens in new tab",
+  "time" : {
+    "start" : 1629116881318,
+    "stop" : 1629116882561,
+    "duration" : 1243
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "199caba24e2513ef",
+  "name" : "6 WHEN click on favs icon near token name",
+  "time" : {
+    "start" : 1629116778163,
+    "stop" : 1629116782897,
+    "duration" : 4734
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "53bd8b69a15f97bb",
+  "name" : "2 THEN appears - magnifier icon\n- Grey text: 'Search Market, use ticker or token address'\n- Buttons: arrow up, down, esc\n- tabs navigation, active tab has purple background\n- content of the active tab",
+  "time" : {
+    "start" : 1629116711879,
+    "stop" : 1629116712057,
+    "duration" : 178
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a13e90252926e13d",
+  "name" : "9 WHEN input search request",
+  "time" : {
+    "start" : 1629116688928,
+    "stop" : 1629116691267,
+    "duration" : 2339
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c7f6ca550d707bb",
+  "name" : "4 THEN title: 'Name', 'Volume, 24h', 'Liquidity', 'Price'\nitem: \n1. fav icon, \n2. token name\n3. token iicon, \n4. network id (name and circle), \n5. volume value: $1,000, \n6. liquidity vakue: $1,000, \n7. price value: $1.000 or $0.00000000, \n8. price dynamic icon (logic same as a",
+  "time" : {
+    "start" : 1629116777693,
+    "stop" : 1629116777973,
+    "duration" : 280
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aaa63bf89166ab0",
+  "name" : "[5] Wallet",
+  "time" : {
+    "start" : 1629116687960,
+    "stop" : 1629116688735,
+    "duration" : 775
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cd2cb4dad92205ca",
+  "name" : "5 THEN Setting icon is located right upper corner",
+  "time" : {
+    "start" : 1629116762297,
+    "stop" : 1629116762305,
+    "duration" : 8
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "94efec214d114f15",
+  "name" : "19 THEN marke search is closed",
+  "time" : {
+    "start" : 1629116692408,
+    "stop" : 1629116692424,
+    "duration" : 16
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2b7b3d8c80839cfd",
+  "name" : "18 WHEN market serach is open and click keyboard ESC",
+  "time" : {
+    "start" : 1629116692326,
+    "stop" : 1629116692406,
+    "duration" : 80
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f2230eb2a248dec",
+  "name" : "1 GIVEN main page loaded",
+  "time" : {
+    "start" : 1629116821180,
+    "stop" : 1629116825415,
+    "duration" : 4235
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "21f8b1469e0d1883",
+  "name" : "2 THEN",
+  "time" : {
+    "start" : 1629116776030,
+    "stop" : 1629116776068,
+    "duration" : 38
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "129a9b3fde20cf59",
+  "name" : "4 THEN open search market with top volume",
+  "time" : {
+    "start" : 1629116685308,
+    "stop" : 1629116685395,
+    "duration" : 87
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "81975f1f0e3eec37",
+  "name" : "3 THEN all token at all elements turn to ETH",
+  "time" : {
+    "start" : 1629116815065,
+    "stop" : 1629116820666,
+    "duration" : 5601
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "124574e6cf9c0410",
+  "name" : "repetition 9 of 10",
+  "time" : {
+    "start" : 1629116746066,
+    "stop" : 1629116748300,
+    "duration" : 2234
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "27c35f8e8714dca",
+  "name" : "1 GIVEN main page loaded",
+  "time" : {
+    "start" : 1629116679281,
+    "stop" : 1629116684931,
+    "duration" : 5650
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3ee05c8c46c2bb98",
+  "name" : "repetition 10 of 10",
+  "time" : {
+    "start" : 1629116748302,
+    "stop" : 1629116750536,
+    "duration" : 2234
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f8a0267254d642b",
+  "name" : "6 WHEN Click on telegram link",
+  "time" : {
+    "start" : 1629116879344,
+    "stop" : 1629116879400,
+    "duration" : 56
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dddd61ba0903e4cb",
+  "name" : "7 THEN - sidebar collapse|unfold\n- arrow changes direction to opposite",
+  "time" : {
+    "start" : 1629116827837,
+    "stop" : 1629116828857,
+    "duration" : 1020
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c565a944c2e688a2",
+  "name" : "5 WHEN click on '~' button",
+  "time" : {
+    "start" : 1629116712150,
+    "stop" : 1629116712223,
+    "duration" : 73
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2ecd7d5966bf4b5",
+  "name" : "15 THEN only Add TXs displayed",
+  "time" : {
+    "start" : 1629116833124,
+    "stop" : 1629116833179,
+    "duration" : 55
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "167dff27aad8d1e5",
+  "name" : "repetition 2 of 10",
+  "time" : {
+    "start" : 1629116730036,
+    "stop" : 1629116732420,
+    "duration" : 2384
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bc8be1f6476696ba",
+  "name" : "repetition 5 of 10",
+  "time" : {
+    "start" : 1629116736896,
+    "stop" : 1629116739109,
+    "duration" : 2213
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "664a3b8242e7dee1",
+  "name" : "15 THEN open search market with last active tab",
+  "time" : {
+    "start" : 1629116692054,
+    "stop" : 1629116692072,
+    "duration" : 18
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a1e04aa86f57829c",
+  "name" : "9 THEN website is opend in new tab",
+  "time" : {
+    "start" : 1629116706189,
+    "stop" : 1629116706820,
+    "duration" : 631
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7b80bb934022210b",
+  "name" : "10 WHEN click on 'four-arrows'  icon",
+  "time" : {
+    "start" : 1629116829962,
+    "stop" : 1629116830074,
+    "duration" : 112
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8deea2d5c3b56f1c",
+  "name" : "3 THEN list is sorted by price delta",
+  "time" : {
+    "start" : 1629116841212,
+    "stop" : 1629116841410,
+    "duration" : 198
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2cb66290bf785c07",
+  "name" : "1 GIVEN setting modal open and push notifications toggle ON",
+  "time" : {
+    "start" : 1629116844906,
+    "stop" : 1629116844906,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "844c1c6e897206c4",
+  "name" : "2 WHEN wallet is diconnected",
+  "time" : {
+    "start" : 1629116754968,
+    "stop" : 1629116756022,
+    "duration" : 1054
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f26465ccf2188408",
+  "name" : "7 THEN link opens in new tab",
+  "time" : {
+    "start" : 1629116879401,
+    "stop" : 1629116879727,
+    "duration" : 326
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fc8369510163fa41",
+  "name" : "7 THEN settings window is open",
+  "time" : {
+    "start" : 1629116762367,
+    "stop" : 1629116762428,
+    "duration" : 61
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a5c165f9ad425a03",
+  "name" : "1 GIVEN main page loaded",
+  "time" : {
+    "start" : 1629116751317,
+    "stop" : 1629116754966,
+    "duration" : 3649
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f07c1d6c59c0ac74",
+  "name" : "16 WHEN click outside market search",
+  "time" : {
+    "start" : 1629116692075,
+    "stop" : 1629116692302,
+    "duration" : 227
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c2c0aa331d3d8137",
+  "name" : "[4] Favorites",
+  "time" : {
+    "start" : 1629116687860,
+    "stop" : 1629116687957,
+    "duration" : 97
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ad147ceb94ac9487",
+  "name" : "8 WHEN Click on privacy link",
+  "time" : {
+    "start" : 1629116879730,
+    "stop" : 1629116879792,
+    "duration" : 62
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6b1274e4fd3a49e9",
+  "name" : "3 THEN list is sorted by market screener",
+  "time" : {
+    "start" : 1629116852895,
+    "stop" : 1629116853041,
+    "duration" : 146
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a66fcb8ce303fdb8",
+  "name" : "[6] Top Volume",
+  "time" : {
+    "start" : 1629116688738,
+    "stop" : 1629116688864,
+    "duration" : 126
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "65947c0da8847948",
+  "name" : "6 WHEN сlick on 'x' button",
+  "time" : {
+    "start" : 1629116868373,
+    "stop" : 1629116868462,
+    "duration" : 89
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dfa601c65420b576",
+  "name" : "5 THEN list is sorted by price delta",
+  "time" : {
+    "start" : 1629116844224,
+    "stop" : 1629116844406,
+    "duration" : 182
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eda20a563385012e",
+  "name" : "10 THEN content changes to search results",
+  "time" : {
+    "start" : 1629116691269,
+    "stop" : 1629116691782,
+    "duration" : 513
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "238c8523232ff5ac",
+  "name" : "6 THEN open search market with top volume",
+  "time" : {
+    "start" : 1629116712225,
+    "stop" : 1629116712298,
+    "duration" : 73
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "494df2b178927bed",
+  "name" : "17 THEN market search is closed",
+  "time" : {
+    "start" : 1629116692304,
+    "stop" : 1629116692324,
+    "duration" : 20
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a409d58fd94e7987",
+  "name" : "2 THEN title: 'Asset', 'Balance', 'Value', 'Price'\nitem: \n1. fav icon, \n2. token icon \n3. token name, \n4. network id, \n5. token balance: 1.0000 or 0.00000000, \n6. token value (balance $ equivalent): $0.0000, \n7. token price: $1.0000 or $0.00000000, \n8. price dynamic icon\n9. price dynamic value: 0.00%",
+  "time" : {
+    "start" : 1629116725311,
+    "stop" : 1629116727787,
+    "duration" : 2476
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "28c25ee11b6f1d70",
+  "name" : "1 GIVEN main page loaded and search market is open and no takon favorit",
+  "time" : {
+    "start" : 1629116762950,
+    "stop" : 1629116776028,
+    "duration" : 13078
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "951a3ac75fbb0193",
+  "name" : "5 WHEN click on '~' button",
+  "time" : {
+    "start" : 1629116685397,
+    "stop" : 1629116685465,
+    "duration" : 68
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "278e1bf5f1b37607",
+  "name" : "13 THEN full Liquidity collapse",
+  "time" : {
+    "start" : 1629116831070,
+    "stop" : 1629116833083,
+    "duration" : 2013
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a0794ac382f5f26d",
+  "name" : "7 THEN website is opend in new tab",
+  "time" : {
+    "start" : 1629116705539,
+    "stop" : 1629116705555,
+    "duration" : 16
   },
   "status" : "passed",
   "severity" : "normal"

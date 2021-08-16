@@ -1,19 +1,30 @@
 {
-  "total" : 15,
+  "total" : 16,
   "items" : [ {
-    "uid" : "7508cf3e46b1f737376b5228fa08f2ef",
-    "name" : "guru.dex.poc.Epic_SearchMarket_Story_BasicElements_Task_Test.Main",
+    "uid" : "d59d1cbbbef667151a6993160ec6df24",
+    "name" : "guru.dex.poc.EPIC_searchMarket_STORY_basicElements_TASK_Test.Main",
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
-      "skipped" : 1,
-      "passed" : 23,
+      "skipped" : 0,
+      "passed" : 24,
       "unknown" : 0,
       "total" : 24
     }
   }, {
-    "uid" : "89cf7a2d92e1f7b36f0abd36cee780b8",
-    "name" : "guru.dex.poc.Epic_SearchMarket_WalletTab_Task_Test.Main",
+    "uid" : "83365e489f34c16ad82b68b062181da4",
+    "name" : "guru.dex.poc.EPIC_liquidityBarFolded_STORY_basicViewAndControls_TASK_Test.Main",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 19,
+      "unknown" : 0,
+      "total" : 19
+    }
+  }, {
+    "uid" : "56b7459e9a9d65042e7fd4f734242da8",
+    "name" : "guru.dex.poc.EPIC_searchMarket_STORY_walletTab_TASK_Test.Main",
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
@@ -23,8 +34,8 @@
       "total" : 14
     }
   }, {
-    "uid" : "fc1c0800373b71256e8f394e6d864242",
-    "name" : "guru.dex.poc.Settings_Links_04Test.Main",
+    "uid" : "0311cb0379bbf459b54946ab2fbbed57",
+    "name" : "guru.dex.poc.EPIC_settings_STORY_links_TASK_Test.Main",
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
@@ -34,8 +45,8 @@
       "total" : 11
     }
   }, {
-    "uid" : "63cd89c67d8ebe99c8a2ecfd7559f9e8",
-    "name" : "guru.dex.poc.Epic_SearchMarket_FavoritesTab_Task_Test.Main",
+    "uid" : "1e4a8bc265259124a60feaf44bca9d88",
+    "name" : "guru.dex.poc.EPIC_searchMarket_STORY_favoritesTab_TASK_Test.Main",
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
@@ -45,8 +56,8 @@
       "total" : 10
     }
   }, {
-    "uid" : "9e0dc69a0ea7952d015b29a6fdf1aea3",
-    "name" : "guru.dex.poc.Dyor_Links_02Test.Main",
+    "uid" : "da5aba59dac018b9c7cf7b673d9cddf6",
+    "name" : "guru.dex.poc.EPIC_dyor_STORY_links_TASK_Test.Main",
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
@@ -56,8 +67,8 @@
       "total" : 9
     }
   }, {
-    "uid" : "2bafe8d6bfde6ea153c2ebe0787d86ab",
-    "name" : "guru.dex.poc.Dyor_Initialization_01Test.Main",
+    "uid" : "57f57234718eb56834d878ae9166d433",
+    "name" : "guru.dex.poc.EPIC_dyor_STORY_initialization_TASK_Test.Main",
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
@@ -67,8 +78,8 @@
       "total" : 9
     }
   }, {
-    "uid" : "a251412806c0c5d2aea5d4e170fc3e77",
-    "name" : "guru.dex.poc.Settings_Initialization_01Test.Main",
+    "uid" : "4648f69af2d6616e9a263aeb6f1248f2",
+    "name" : "guru.dex.poc.EPIC_settings_STORY_initialization_TASK_Test.Main",
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
@@ -78,8 +89,8 @@
       "total" : 7
     }
   }, {
-    "uid" : "933abf56cb641aa8b6e5980713eca2e7",
-    "name" : "guru.dex.poc.Settings_SettingsDetailsAndControls_Test.Main",
+    "uid" : "da5fbd52c9cd63fd64dc41415c1f01ee",
+    "name" : "guru.dex.poc.EPIC_settings_STORY_settingsDetailsAndControls_TASK_Test.Main",
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
@@ -89,26 +100,15 @@
       "total" : 7
     }
   }, {
-    "uid" : "d12d317c5b2ef65ebefe2f8830c04d08",
-    "name" : "guru.dex.poc.Epic_SearchMarket_GainerAndLosersTabs_Task_Test.Main",
+    "uid" : "94d7f7f42fd8dfd6e28e64c68acadb63",
+    "name" : "guru.dex.poc.EPIC_searchMarket_STORY_unfoldedSearch_TASK_Test.Main",
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 5,
+      "passed" : 6,
       "unknown" : 0,
-      "total" : 5
-    }
-  }, {
-    "uid" : "fc250abe230136cc2a53a0b37cec1380",
-    "name" : "guru.dex.poc.Epic_SearchMarket_TrendingTab_Task_Test.Main",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 3,
-      "unknown" : 0,
-      "total" : 3
+      "total" : 6
     }
   } ]
 }

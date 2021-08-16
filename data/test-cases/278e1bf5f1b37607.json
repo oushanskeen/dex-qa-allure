@@ -1,0 +1,117 @@
+{
+  "uid" : "278e1bf5f1b37607",
+  "name" : "13 THEN full Liquidity collapse",
+  "fullName" : "guru.dex.poc.EPIC_liquidityBarFolded_STORY_basicViewAndControls_TASK_Test$Main.test13",
+  "historyId" : "c6b2f3bd51de98ca9e0efd9d37e2e7fb",
+  "time" : {
+    "start" : 1629116831070,
+    "stop" : 1629116833083,
+    "duration" : 2013
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "logTestStart",
+    "time" : {
+      "start" : 1629116831071,
+      "stop" : 1629116831071,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "setupTest",
+    "time" : {
+      "start" : 1629116820763,
+      "stop" : 1629116821178,
+      "duration" : 415
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "logTestFinished",
+    "time" : {
+      "start" : 1629116833083,
+      "stop" : 1629116833083,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "quit",
+    "time" : {
+      "start" : 1629116833418,
+      "stop" : 1629116833507,
+      "duration" : 89
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "pop-os"
+  }, {
+    "name" : "thread",
+    "value" : "205127@pop-os.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "guru.dex.poc.EPIC_liquidityBarFolded_STORY_basicViewAndControls_TASK_Test$Main"
+  }, {
+    "name" : "testClass",
+    "value" : "guru.dex.poc.EPIC_liquidityBarFolded_STORY_basicViewAndControls_TASK_Test$Main"
+  }, {
+    "name" : "testMethod",
+    "value" : "test13"
+  }, {
+    "name" : "suite",
+    "value" : "guru.dex.poc.EPIC_liquidityBarFolded_STORY_basicViewAndControls_TASK_Test.Main"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "278e1bf5f1b37607.json",
+  "parameterValues" : [ ]
+}
